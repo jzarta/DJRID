@@ -1,15 +1,17 @@
 .header{
-    background-color: #808080 ;
+    background-color: #808080;
 }
+
 #body {
 margin: 0;
-background-image: url(.../img/background.jpg);
+background-image: url("./img.jpng.png");
 background-size: 1440px 800px;
 background-repeat:no-repeat;
 display: compact;
 font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
-footer {
+.container {
     background: #666;
     color: #fff;
     padding: 30px 0;
@@ -19,3 +21,7 @@ footer {
     font-size: 12px;
     text-align: center;
 }
+
+body {font-family: 'Source Sans Pro', sans-serif;
+ }
+
