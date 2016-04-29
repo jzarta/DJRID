@@ -1,0 +1,21 @@
+.header{
+    background-color: #808080 ;
+}
+#body {
+margin: 0;
+background-image: url(.../img/background.jpg);
+background-size: 1440px 800px;
+background-repeat:no-repeat;
+display: compact;
+font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+footer {
+    background: #666;
+    color: #fff;
+    padding: 30px 0;
+    clear: both;
+    border-top: 8px solid #4aaaa5 ;
+    color: #ccc;
+    font-size: 12px;
+    text-align: center;
+}
